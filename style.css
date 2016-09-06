@@ -1,0 +1,85 @@
+body {
+  background-color: dodgerblue;
+  font-family: sans-serif;
+}
+
+img {
+  margin-top: 25px;
+  height: 35px;
+  margin-left: 48%;
+  margin-bottom: 20px;
+}
+
+main {
+  display: inline-block;
+  text-align: center;
+  margin-left: 35%;
+}
+
+form {
+  background-color: white;
+  width: 400px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  width: 320px;
+  height: 55px;
+  border: 2px solid lightgray;
+  font-size: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+button {
+  width: 320px;
+  height: 55px;
+  font-size: 20px;
+  border-radius: 5px;
+  background-color: lightgreen;
+  border: 2px solid lightgreen;
+  color: white;
+  padding: 15px;
+}
+
+h4 {
+  color: white;
+}
+
+div a:link { color: white; }
+div a:visited { color: white; }
+div a:hover { color: white; }
+div a:active { color: white; }
+
+div {
+  text-align: center;
+}
+
+
+h2 {
+  font-weight: 200;
+  color: gray;
+}
+
+h3 {
+  padding-left: 40px;
+  text-align: left;
+  font-weight: 100;
+}
+
+
+h6 {
+  color: darkgray;
+}
+
+form a:link { color: darkgray; }
+form a:visited { color: darkgray; }
+form a:hover { color: darkgray; }
+form a:active { color: darkgray; }
